@@ -541,6 +541,12 @@ footer{
     float: right;
     display: block;
   }
+	
+	
+html{
+	width: 100vw;
+	overflow-x: hidden;
+}
 
   .header{
 	height: 20vh;
